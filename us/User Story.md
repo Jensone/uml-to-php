@@ -30,4 +30,4 @@ Pour améliorer une US, il faut principalement respecter ces 5 règles :
 - 4 : lever l’ambiguïté des termes (rester CLAIR)
 - 5 : pratiquer la réécriture des US
 
-Une personne extrene au projet doit être en mesure de comprendre une US même sans avoir tout le contexte du projet. Si cela s'avère compliqué, il faudra revoir l'US pour l'améliorer.
+Une personne externe au projet doit être en mesure de comprendre une US même sans avoir tout le contexte du projet. Si cela s'avère compliqué, il faudra revoir l'US pour l'améliorer.
