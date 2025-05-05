@@ -9,4 +9,11 @@ class Setting
     private int $id;
     private User $owner;
     private array $parameters;
+
+    
+    public function __construct(
+        User $owner
+    ) {
+        $this->sender = $sender;
+    }
 }
