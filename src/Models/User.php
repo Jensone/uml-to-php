@@ -8,4 +8,12 @@ class User
     private string $number;
     private string $country;
     private string $photo;
+
+    public function __construct(
+        string $number,
+        string $country
+    ) {
+        $this->number = $number;
+        $this->country = $country;
+    }
 }
