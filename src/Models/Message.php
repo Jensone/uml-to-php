@@ -19,3 +19,4 @@ class Message
         $this->sender = $sender;
     }
 }
+// Ne rien écrire ici

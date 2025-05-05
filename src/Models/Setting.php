@@ -14,6 +14,6 @@ class Setting
     public function __construct(
         User $owner
     ) {
-        $this->sender = $sender;
+        $this->owner = $owner;
     }
 }
